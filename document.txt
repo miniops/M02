@@ -1,5 +1,321 @@
-### Welcome to your project!
+# Cercar a Internet 
 
-- Brush up on Markdown: http://daringfireball.net/projects/markdown/basics
-- Learn about Penflip: [penflip.com/help](http://www.penflip.com/help)
-- Talk to a person: support@penflip.com
+Quant de temps dediques al dia a cercar a Internet? Quantes cerques fas al llarg del dia? Ens ajuden els cercadors a trobar la informació que necessitem o, al contrari, ens proporcionen molta informació irrelevant que no s'ajusta al que estem cercant? Hi ha alguna manera de millorar les cerques per trobar la informació justa? De quines ajudes o estratègies disposem per fer aquestes cerques més eficients?
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/OE63BYWdqC4" frameborder="0" allowfullscreen></iframe>
+
+[La història de Zack Matere: Cultivar el coneixement](http://www.google.com/intl/ca/insidesearch/stories/)
+
+## Síl·labus del curs
+
+
+* El fet de cercar
+	* Una visió general sobre les cerques, els resultats i el funcionament dels cercadors
+* Les paraules clau i l’anatomia dels cercadors
+	* Una guia per aprendre a triar les paraules clau i analitzar allò que ens ofereixen els cercadors
+* Com obtenir millors resultats
+	* Coneix els operadors i altres tècniques per fer una cerca eficaç
+* La credibilitat de les fonts
+	* Contrasta i aplica criteris per avaluar la informació: autoria, objectivitat, actualitat, fiabilitat, adequació i ideologia de les pàgines web
+
+## Prerequisits del curs
+
+* Cap
+
+##Dedicació horària
+
+10 hores
+
+## Elaborat per
+
+Xavier Belanche
+
+Catina Bujosa
+
+Mireia Manresa
+
+
+(PAS 2)
+
+### Com cerco? ###
+
+Aprendre a cercar correctament és una habilitat que t'ajudarà a fer un ús efectiu de la web. 
+Fem cerques per trobar una informació que necessitem per una necessitat personal o professional. 
+El problema de les cerques no és la falta de resultats sinó seleccionar entre el resultats la informació que respon millor a la cerca que hem fet. 
+
+El propòsit de les cerques no és trobar resultats sinó *el resultat*. (referència de [Las búsquedas inteligentes te salvan el día](http://thinkwasabi.com/2010/05/las-busquedas-inteligentes-te-salvan-el-dia/)
+
+Mira’t aquest vídeo: hi apareixen les imatges relacionades amb els termes amb major nombre de cerces de l’any, del cercador Google, a tot el món, per països i temes. 
+
+
+<iframe width="560" height="315" src="http://www.youtube.com/embe<iframe width="560" height="315" src="http://www.youtube.com/embed/xY_MUB8adEQ" frameborder="0" allowfullscreen></iframe>d/xY_MUB8adEQ" frameborder="0" allowfullscreen></iframe>
+
+EL PEU DEL VÍDEO HA D’APUNTAR A AQUEST ENLLAÇ [Cerques de l’any 2012 per països i temes](http://www.google.com/intl/ca/zeitgeist/2012/index.html#the-world)
+
+
+F1 **Atura’t i comparteix** Comparteix la teva història personal de cerca. Has vist el vídeo de Zack Matere (XAVI: ENLLAÇAR A PAS 1) en què explica la seva història de cerca. De segur que fent cerques has tingut sorpreses o has arribat a llocs inesperats o la troballa que has fet és més important que el que estaves buscant. Has sentit a parlar del concepte [*serendipitat*](http://dlc.iec.cat/results.asp?txtentrada=serendipitat&Submit2=Cerca+directa+al+diccionari) (en anglès*serendipity*) aplicat a la tecnologia? Comenta-ho en el fòrum i explica alguna anècdota personal relacionada amb alguna cerca que hagis fet.
+
+(PAS 3)
+
+###Com funcionen els cercadors?###
+
+Tots els cercadors, en termes generals, tenen un funcionament similar.
+
+Aquí tens una llista dels cercadors més populars i d’altres que no ho són tant.
+ 
+* Google
+* Bing
+* Yahoo
+* DuckDuckGo
+
+Però, què passa en el moment que fem clic al botó de cerca? Què hi ha darrere de les pàgines de cerca? Com funcionen?
+
+Mira’t el següent vídeo on un enginyer de Google explica el funcionament d’aquest popular cercador, no molt diferent de la resta de cercadors actuals.
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/BNHR6IQJGZs?cc_load_policy=1&hl=ca&cc_lang_pref=ca&hd=1" frameborder="0" allowfullscreen></iframe>
+
+(PAS 4)
+
+##Com es trien les paraules clau? ##
+
+La tria de paraules que teclegem en el cercador condicionen els resultats i les fonts que obtindrem. 
+
+Les paraules clau que escrivim a la caixa de cerca tenen una relació directa amb les fonts que el cercador presenta a la llista de resultats de la cerca; per tant, com més precisos siguin els mots millors seran els resultats.
+
+L'objectiu és tranformar una cerca pròpia del llenguatge natural en brut en una expressió optimitzada per als cercadors. 
+
+Imaginem que tenim un problema amb les plantes i formulem la pregunta següent al cercador *Què faig si les meves plantes tenen coses negres a les fulles?*. 
+
+Ara observa el procés que seguiríem per precisar els mots d’aquesta cerca:
+
+* Encerclem les paraules clau:  són les paraules essencials per comunicar la teva necessitat. 
+(IMATGE)
+* Subratllem les paraules massa genèriques o ambigües: buscarem sinònims o paraules més específiques *plantes* per *gerani*; *coses negres* per *taques negres*. 
+* Afegim el que s’anomena en anglès *missing words*, és a dir, paraules que falten: podríem pensar que ens hem deixat *plaga* o *malaltia* perquè són mots genèrics que defineixen el més precisió el problema que tenim.
+* Eliminem les paraules innecessàries, és a dir, aquelles que no aporten significat. En en nostre cas ignoraríem *què faig si les meves*, *tenen*, *a les*
+* Finalment teclegem: *gerani taca negra plaga*
+
+Recomanacions:
+
+* Els cercadors busquen coincidències a tota la xarxa, pensa en la paraula que té més possibilitats d’aparèixer (per exemple: *tinc molt mal de cap* o millor escriure *migranya*?)
+* Escriu expressions curtes o poques paraules (dues o tres)
+* Utilitza paraules descriptives, com més específic sigui el terme millor
+* Ignora les majúscules
+* Ignora els signes de puntuació
+
+(IMATGES DE LES FRASES AMB ELS MOTS MARCATS)
+
+Et proposem un joc: planteja’t qualsevol pregunta directa  sense tenir en compte les recomanacions anteriors i després ves ajustant l’expressió seguint els criteris per escollir adequadament les paraules.
+
+(PAS 5)
+
+###Què ofereixen els cercadors? / Anatomia dels resultats de la cerca
+
+Quan el cercador et torna el resultat de la cerca, la representació és generalment **una llista d'ítems**. Observa les figures següents on es mostra el resultat d'una cerca a *Google Search* (el cercador de Google), a *Bing* (el cercador de Microsoft) i a *DuckDuckGo* 
+
+(FIGURES: CAPTURES DE LA CERCA “LLEIDA” A CADA CERCADOR)
+
+Veiem que la llista principal de resultats és similar. Però quan has fet la cerca, quin era el teu objectiu: Buscaves un vídeo? Informació sobre la història de la ciutat? Una imatge d’un monument important? Comprar un llibre? Fixa’t que tots els cercadors proporcionen altres ítems que et permeten acotar la teva cerca:
+
+* web
+* imatges
+* vídeos
+* mapes
+* notícies
+* compres
+* més
+
+Explora en els resultats de la cerca sobre Lleida quina informació t’ofereix cada cercador per a cadascun dels recursos anteriors. 
+
+Per exemple, si cliques a l’apartat vídeos, comprovaràs que Google, Bing i DuckDuckGo et remeten a vídeos de tota la xarxa i en podem acotar la durada, la data de publicació, la qualitat i la font.
+
+Però quin avantatge presenta DuckDuckGo respecte a Google i a Bing? La filosofia de DuckDuckGo és respectar la privacitat i no registrar la informació de l’usuari. És un cercador a tenir en compte. 
+
+Mira’t aquest vídeo i descobriràs el perquè:
+
+<iframe src="https://duckduckgo.com/about-video.html" width="640" height="360"></iframe>
+
+Algunes consideracions...
+
+* Tots els cercadors presenten una estructura similar quant als resultats.
+* Ens vigilen? Alguns cercadors enmagatzemen els hàbits de navegació dels usuaris i això provoca que els resultats d’una cerca es corresponguin amb el perfil de la persona que la fa. 
+
+
+F2 **Atura’t i reflexiona** 
+
+Després d’haver observat el resultat d’una cerca en diferents cercadors, reflexiona sobre el que t’ha suggerit aquesta exploració. Pensa en aquestes qüestions:
+
+* Havent experimentat amb els diferents cercadors una mateixa cerca, quin prefereixes? Comparteix el teu raonament.
+* Les teves cerques proporcionen informació als cercadors. De quina manera creus que el seguiment que exerceixen els cercadors sobre els teus hàbits de navegació (interessos, ideologia política, circumstàncies familiars, preferències d’oci, etc) pot influir en els resultats que obtens? Què et fa pensar aquest fet?
+* Què t’ha suggerit el vídeo del cercador DuckDuckGo pel que fa a la confidencialitat i al seguiment de la persona que fa la cerca?
+
+
+(PAS 6)
+
+### Trucs i tècniques per a una cerca eficaç
+
+Els operadors de cerca són comuns a la majoria de navegadors i, per tant, funcionen independentment del cercador que s’utilitzi. 
+
+Si després d’haver seguit les pautes generals per escollir correctament les paraules de cerca encara no acabes de trobar el que busques, utilitza un *operador de cerca*, és a dir, afegeix un símbol a la teva consulta que et permetrà ajustar encara més el resultat.
+
+Existeixen molts operadors, aquesta és una selecció dels més comuns:
+
+* Cerca una expressió exacta amb les `cometes “”`. Les cometes permeten trobar una paraula o conjunt de paraules exactes. Útil per cercar el nom d'una publicació, una pel·lícula o una citació molt concreta. 
+	* Comprova-ho. A qui s’atribueix la frase *El que hem d'aprendre ho aprenem fent-ho*?
+* Exclou una paraula amb el  `signe - `. Algunes paraules poden tenir molts significats, alguns dels quals ens podem "distreure" del resultat de la cerca. Utilitza el signe **-** per excloure tots els resultats que incloguin la paraula que vols descartar. 
+	* Comprova-ho: *Ibiza*, en castellà, pot ser l’illa o  una marca de cotxe. Comprova-ho: Planeges una escapada a l’illa de *Ibiza*, escriuràs *Ibiza -cotxe*. Quines pàgines et retorna el cercador? 
+* Cerca un resultat o un altre amb  `OR `. Quan escrius més d’un mot, els resultats de la cerca contenen totes els que has escrit. Per diferenciar-los i obtenir entrades que continguin cada mot per separat, combinats o alternats entre ells, utilitza `OR`, en majúscules, entre les dues expressions.
+	* Comprova-ho: *Japó OR Tsunami*. Què observes? S’alternen separadament pàgines d’informació sobre el Japó, sobre el fenomen natural i sobre el tsunami que va afectar aquest país. 
+* Cerca múltiple amb l’asterisc `*`. Significa cerca tot el relacionat amb... Molt útil per afinar la teva cerca a un determinat àmbit local, un producte concret, etc.
+	* Comprova-ho: Algú escriu *Girona *lloguer*. Analitza els resultats. Què està buscant aquesta persona?
+* Cercar en una web determinada: `site:` Restringeix la teva cerca a un lloc web concret que ja coneixes. 
+	* Comprova-ho: Estàs buscant una idea per muntar un negoci i saps que la institució Barcelona Activa ofereix informació. Escriu: ``emprenedoria site:www.barcelonactiva.cat/``
+* Cercar paraules semblants o sinònims: `~` El signe titlla et permet buscar paraules similars o relacionades amb un tema concret.
+	* Comprova-ho: Ja comences a conèixer operadors per cercar millor, però vols descobrir més “trucs” per ser imbatible i que cap cerca se’t resisteixi. Escriu: google ~trucs. 
+* Cercar un tipus de fitxer concret amb `filetype:`: retorna els arxius amb l’extensió que especifiquis. Consulta la llista completa dels [tipus d’arxiu que Google pot indexar](http://support.google.com/webmasters/bin/answer.py?hl=es&hlrm=en&answer=35287)
+	* Comprova-ho: Necessites informació fiable sobre l’escalfament global. Escriu: escalfament global filetype:pdf. Sovint l’extensió .pdf remet a bons articles publicats per institucions reconegudes.
+
+F3 **Atura’t i practica** Per practicar un procés de cerca, et proposem que resolguis un repte de cerca amb la col·laboració de la resta de participants. Comparteix i explica en el fòrum les tècniques i estratègies que utilitzaràs per resoldre’l. Vés explicant el procés però no en donis la resposta de seguida si la trobes! Dóna pistes i consells de cerca al grup.
+
+Quina relació hi ha entre les tres imatges següents?
+
+![imatge 1](img/img1.jpg)
+
+![imatge 2](img/img2.jpeg)
+
+![imatge 3](img/img3.jpg)
+
+* Què faràs amb el text de la imatge 1? Quina informació en treuràs?
+* Com buscaràs l’origen de la fotografia? Un cop l’hagis trobada, quines informacions en destacaràs?
+* I la imatge del llibre, quina relació manté amb les dues imatges anteriors?
+
+
+(PAS 7)
+
+## Una imatge... més que 1000 paraules? ##
+
+La cerca d’imatges és una de les funcions dels cercadors que més s’utilitza i que ofereix resultats més sorprenents i gratificants.
+
+Fem fotos, busquem imatges, les retoquem, les etiquetem, les emmagatzemem i les compartim; consumim material visual o simplement gaudim de bones fotografies a través d’Internet i dels dispositius mòbils.
+
+Tots els cercadors contenen l’opció **imatges**. Si es desplega el quadre ‘eines de cerca’, descobrim un pila de possibilitats (mida, data, color, etc.) que altrament no podríem expressar fent una cerca general a la web.
+
+Explora les funcionalitats de la cerca d’imatges:
+
+* Vols imatges en blau, vermell o en blanc i negre? Filtra els resultats per color: tria’n un de la paleta i comprovaràs  que la selecció de fotografies s’adapta al criteri de color que desitgis.
+* El filtre de color va més enllà: ens permet trobar informació que no podem expressar o incloure en el quadre de cerca general.
+
+Observa aquesta galeria i pensa en els filtres que s’hi han aplicat:
+(IMATGE exemple, galeria d’imatges Sistema solar > tot color surt complert / groc o taronja o vermells colors calent, centrat en el sol / blanc i engre: vistes del cosmos / marró: vistes des de la terra) 
+
+Observem que...
+
+* La cerca de l’expressió *Sistema solar* sense filtres dóna resultats explicatius dels planetes que el formen.
+* Amb el filtre de colors calents (groc, vermell o taronja) veiem que les imatges destaquen el sol i, en menor grau, els planetes.
+* Amb el filtre blanc i negre obtenim imatges del cosmos, la lluna i esquemes gràfics.
+
+**Amplia** La majoria de cercadors ofereixen una sèrie de [consells i trucs](http://www.google.com/intl/ca_ALL/insidesearch/tipstricks/) o [goodies](https://duckduckgo.com/goodies/) per obtenir resultats instantanis
+
+
+FG **Aprèn en col·laboració** En el fòrum general, resol els teus dubtes tant sobre els operadors com sobre la cerca de imatges o altres tècniques amb l’ajut dels companys.
+
+
+(PAS 8)
+##No tot es troba a partir dels cercadors generals
+
+Què penses si no trobes una cosa a través d'un cercador general? Que potser no existeix? Amb els cercadors naveguem per la superfície d'Internet. Hi ha informació que no els és accessible. 
+
+A Internet la informació es troba, de vegades, tancada en webs corporatives (empreses, bancs, universitats,...) o bé no està indexada en els cercadors.  Això fa que hi hagi informació oculta que no apareix en els resultats de les cerques que fem. La diversitat de formats, com ara fotografies, figures, esquemes, vídeos, música, podcasts, infografies, presentacions, comentaris en fòrums, tuits, fulls de càlcul, bases de dades i, fins i tot, simuladors i videojocs , incrementa encara més la dificultat dels cercadors generals de trobar-la.
+
+Fixa't en aquesta cerca: escrivim l'expressió  ``pel·lícula de terror`` en el [cercador de Twitter](https://twitter.com/search-home) i el [resultat]( https://twitter.com/search?q=pel%C2%B7l%C3%ADcula%20terror&src=typd) són tuits que es refereixen a aquest tema. Fixa't que la informació és força variada. A més a més, podem trobar-hi comentaris de ciutadans anònims que ens poden conduir a blogs i pàgines interessants. Si, en canvi, fem la cerca un buscador qualsevol, els [resultats](https://www.google.es/#q=pel%C2%B7l%C3%ADcula+terror) ens remeten a Viquipèdia i a les fonts tradicionals.
+
+Per això, és recomanable que t'adrecis a serveis específics. Aquí en tens alguns que et poden ser útils per afinar les teves cerques. Navega-hi: 
+
+* Serveis d'imatges, com ara [Flickr](http://www.flickr.com/).
+* Serveis de vídeos, com ara [Vimeo](https://vimeo.com/). 
+* Xarxes socials, com ara [twitter](https://twitter.com/).
+* Blogs personals, com ara [tumblr](https://www.tumblr.com/).
+* Serveis de presentacions, com ara [Slideshare](http://www.slideshare.net).
+* Serveis de streaming, per a àudio (música) i vídeo, com ara [Grooveshark](http://grooveshark.com/). 
+
+Aquests serveis incorporen eines de cerca efectives que permeten localitzar-hi els continguts que emmagatzemen. 
+
+Ara fixa't en aquesta altra cerca amb el terme ``cinema`` feta a Slideshare: ens ofereix [resultats específics](http://www.slideshare.net/search/slideshow?searchfrom=header&q=cinema) d'experts o bé de persones anònimes que han elaborat alguna presentació sobre cinema i que l'han volguda compartir. Finalment, escrivim ``"cinema"`` en un buscador genèric com Google: observa'n els [resultats](https://www.google.es/search?q=cinema&rls=com.microsoft:ca&ie=UTF-8&oe=UTF-8&startIndex=&startPage=1). 
+
+Hi veus els diferents resultats i utilitats de cada servei? 
+
+Per a una millor organització de la informació que els usuaris publiquen en aquests serveis, sovint s'assigna un #hashtag o etiqueta al contingut publicat, que és el mot o mots clau que el descriu i en facilita la localització.   
+
+
+(PAS 9)
+
+##Em puc fiar de tot el que trobo?
+
+Et pots fiar de tot el que trobes a Internet? Tota la informació que hi ha té el mateix nivell de qualitat?
+
+Explora aquestes tres pàgines web i pensa de quina o de quines et fiaries més per informar-te sobre els diferents mètodes anticonceptius
+
+* [web 1](http://w110.bcn.cat/portal/site/Joves/menuitem.fcc7c99428df85297ca47ca4a2ef8a0c/?vgnextoid=c429a29f5a6a8210VgnVCM10000074fea8c0RCRD&vgnextchannel=c429a29f5a6a8210VgnVCM10000074fea8c0RCRD&lang=ca_ES)
+* [web 2](http://www.slideshare.net/ciencies.mon.contemporani/mtodes-anticonceptius)
+* [web 3](http://www.taringa.net/posts/salud-bienestar/3002991/12-Tipos-de-Metodos-Anticonceptivos.html)
+
+
+(PAS 10)
+
+##Com puc saber si me'n puc fiar?##
+
+Totes les pàgines web són igual de fiables? La democratització que ha suposat Internet també comporta alguns problemes per saber destriar el gra de la palla. 
+
+Com pots saber si una web és fiable? Aquí en tens alguns criteris que et poden ajudar a saber en què t'has de fixar: 
+
+1. Autoria de les pàgines web
+2. Objectivitat de la informació
+3. Actualitat i adequació de la pàgina
+
+Fixem-nos en el primer criteri, **l'autoria**. Consulta aquesta pàgina web i analitza tots els aspectes que et poden donar informació sobre l'autoria segons la graella que t'oferim. Estàs d'acord amb l'anàlisi que te'n fem? 
+
+[web autoria](http://html.rincondelvago.com/crepusculo_stephenie-meyer.html) 
+
+GRAELLA AUTORIA GUARDADA EN ODT (VALORAR POSSIBILITAT GALERIA D’IMATGES I QUE TRÏIN)
+
+Ara fixa't en el segon criteri, **l'objectivitat**. Consulta aquesta pàgina web i revisa tots els aspectes que tenen a veure amb l'objectivitat segons la graella que t'oferim. Estàs d'acord amb l'anàlisi que te'n fem? 
+
+[web objectivitat](http://www20.gencat.cat/portal/site/governacio/menuitem.188cc2c34a4b942f8e629e30b0c0e1a0/?vgnextoid=7f5fe4f76bc87110VgnVCM1000000b0c1e0aRCRD&vgnextchannel=7f5fe4f76bc87110VgnVCM1000000b0c1e0aRCRD)
+
+GRAELLA OBJECTIVITAT GUARDADA EN ODT
+
+Finalment, centra't en el tercer criteri, **l'actualitat i l'adequació**. Consulta aquesta pàgina web i revisa tots els aspectes que tenen a veure amb aquest criteri segons la graella següent. Estàs d'acord amb l'anàlisi que te'n fem? 
+
+[web actualitat](http://www.totsantcugat.cat/ca/notices/2012/07/el-preu-dels-pisos-cau-mes-d-un-altre-5-en-mig-any-8271.php)
+
+GRAELLA ACTUALITAT GUARDADA EN ODT
+
+
+F4 **Atura't i practica**  Estàs interessat en la teoria psicològica de Jung perquè n’has sentit a parlar en un reportatge televisiu, busques informació científica sobre aquest psiquiatra i estàs valorant la possibilitat de seguir algun curs. Avalua aquestes tres pàgines web segons els criteris de fiabilitat anteriors i planteja en el fòrum els teus arguments per decidir quina et sembla més fiable. 
+
+* [web 1](http://www.odiseajung.com/)
+* [web 2](http://www.institutcgjungbcn.cat/)
+* [web 3](http://carmesi.wordpress.com/2009/09/06/la-enantiodromia-freud-y-jung/)
+
+(PAS 11)
+
+##Sigues crític     
+
+Qualsevol text està escrit des d'una ideologia o posicionament determinat.
+
+Internet ens permet comprovar que els textos mostren, inevitablement, punts de vista i opinions diversos:
+ 
+Per exemple, busca tant a la [Viquipèdia](http://ca.wikipedia.org/wiki/Taurom%C3%A0quia) com a la [Wikipedia](http://es.wikipedia.org/wiki/Corrida_de_toros) l'expressió ``corrida de toros``.  Llegeix-los i pensa si pots detectar el rerefons ideològic i cultural de cada entrada.
+
+Fem una altra pràctica:
+
+Si busques a la Viquipèdia en català el terme ``Gibraltar`` hi trobaràs [aquesta informació](http://ca.wikipedia.org/wiki/Gibraltar) i en anglès [aquesta](http://en.wikipedia.org/wiki/Gibraltar); en canvi, si el busques en castellà, [la informació](http://es.wikipedia.org/wiki/Gibraltar) que apareix presenta algunes diferències, tant en la manera de presentar-la com de contingut. Quin dels articles és més neutre i objectiu? Compara'n els aspectes següents:
+
+* El paràgraf introductori.
+* La informació sobre la història del territori i les referències que hi apareixen.
+* La neutralitat o la subjectivitat del llenguatge que s'hi utilitza.
+
+T'adones que cal tenir sempre en compte des de quin punt de vista s'explica la informació per poder valorar-ne la pertinença? Només un cop has valorat la procedència i la intencionalitat dels textos pots decidir el teu posicionament. Es tracta, senzillament, de buscar en diferents fonts per no ser manipulat i de buscar-hi interpretacions; i, si en discuteixes amb les persones del teu voltant, molt millor.
+
+
+F5 **Atura't i practica** Busca algun exemple de pàgina web no fiable per algun dels criteris que hem aplicat i proposa-la en el fòrum perquè els companys l'avaluïn (pots intervenir per ajudar a valorar-la). Alhora, participa en l'avaluació d'una pàgina que hagi proposat un altre company. 
